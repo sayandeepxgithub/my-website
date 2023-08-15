@@ -1,0 +1,33 @@
+header{
+    text-align:center;
+    color:darkblue;
+}
+.Sayandeep{
+    color:Darkblue;
+}
+.Ghosh{
+    color:rgb(54, 10, 95);
+}
+div>h1{
+    background:#F6F4EB;
+}
+img{
+    height:300px;
+    width:300px;
+    border:0px solid #91C8E4;
+    float:left;
+}
+.main{
+    margin:10px;
+    display:inline;
+    margin:0px;
+    width:30px;
+    font-weight:normal;
+    font-family:sans-serif;
+}
+.tag{
+    clear:left;
+}
+footer{
+    background-color:#F6F4EB;
+}
